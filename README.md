@@ -1,3 +1,2 @@
-# Linear-Regression-
-Repository consisting of Linear Regression Projects
+# Linear-Regression
 Predicting the value of Bitcoin using Linear Regression
